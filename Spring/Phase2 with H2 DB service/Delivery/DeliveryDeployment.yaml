@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: akash-delivery
+spec:
+  selector:
+    matchLabels:
+      app: akash-delivery
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: akash-delivery
+    spec:
+      containers:
+      - name: akash-delivery
+        image: delivery-service
+        ports:
+        - containerPort: 8081
+        imagePullPolicy: Never

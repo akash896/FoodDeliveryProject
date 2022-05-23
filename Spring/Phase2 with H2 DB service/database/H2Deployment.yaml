@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: akash-h2
+spec:
+  selector:
+    matchLabels:
+      app: akash-h2
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: akash-h2
+    spec:
+      containers:
+      - name: akash-h2
+        image: h2-service
+        ports:
+        - containerPort: 8083
+        imagePullPolicy: Never

@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: akash-restaurant
+spec:
+  selector:
+    app: akash-restaurant
+  ports:
+  - port: 8080
+    targetPort: 8080
+#  type: LoadBalancer

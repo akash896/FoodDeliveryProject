@@ -1,0 +1,7 @@
+/*
+Any Java collection can be made to be Thread-safe like so:
+List newList = Collections.synchronizedList(oldList);
+
+Or to create a brand new thread-safe list:
+List newList = Collections.synchronizedList(new ArrayList());
+*/

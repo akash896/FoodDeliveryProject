@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: akash-restaurant
+spec:
+  selector:
+    matchLabels:
+      app: akash-restaurant
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: akash-restaurant
+    spec:
+      containers:
+      - name: akash-restaurant
+        image: restaurant-service
+        ports:
+        - containerPort: 8080
+        imagePullPolicy: Never

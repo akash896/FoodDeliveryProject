@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: akash-wallet
+spec:
+  selector:
+    matchLabels:
+      app: akash-wallet
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: akash-wallet
+    spec:
+      containers:
+      - name: akash-wallet
+        image: wallet-service
+        ports:
+        - containerPort: 8082
+        imagePullPolicy: Never

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68dc284b-96df-4f33-87bd-d763553ff788" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Delivery/src/main/java/food_delivery/delivery/model/CustomerWithBalance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Delivery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Delivery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Delivery/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../Delivery/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Delivery/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Delivery/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Delivery/src/main/java/food_delivery/delivery/DbController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Delivery/src/main/java/food_delivery/delivery/DbController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Delivery/src/main/java/food_delivery/delivery/DbOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Delivery/src/main/java/food_delivery/delivery/DbOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Delivery/src/main/java/food_delivery/delivery/DeliveryOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Delivery/src/main/java/food_delivery/delivery/DeliveryOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Delivery/src/main/java/food_delivery/delivery/RestaurantOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Delivery/src/main/java/food_delivery/delivery/RestaurantOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Delivery/src/main/java/food_delivery/delivery/utility/DataUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Delivery/src/main/java/food_delivery/delivery/utility/DataUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Delivery/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Delivery/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant/src/main/java/food_delivery/restaurant/utility/DataUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant/src/main/java/food_delivery/restaurant/utility/DataUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wallet/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../Wallet/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wallet/src/main/java/food_delivery/wallet/utility/DataUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Wallet/src/main/java/food_delivery/wallet/utility/DataUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wallet/target/Wallet-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Wallet/target/Wallet-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wallet/target/Wallet-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/../Wallet/target/Wallet-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wallet/target/classes/food_delivery/wallet/utility/DataUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Wallet/target/classes/food_delivery/wallet/utility/DataUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wallet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Wallet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wallet/target/surefire-reports/TEST-food_delivery.wallet.WalletApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Wallet/target/surefire-reports/TEST-food_delivery.wallet.WalletApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wallet/target/surefire-reports/food_delivery.wallet.WalletApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Wallet/target/surefire-reports/food_delivery.wallet.WalletApplicationTests.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24mmEfbKExZIFv8XMUo2l3JpxGT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Personal Space/FoodDeliveryApp Backup/latest backup/all working with database with HTTP request/FoodDeliverySystem/Tests" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Public5-Project1Phase2">
+    <configuration name="Public1-Project1Phase2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase2/Public1-Project1Phase2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Public2-Project1Phase2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase2/Public2-Project1Phase2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Public3-Project1Phase2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase2/Public3-Project1Phase2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Public4-Project1Phase2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase2/Public4-Project1Phase2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Public5-Project1Phase2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase2/Public5-Project1Phase2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Public5-Project1Phase2" />
+        <item itemvalue="Python.Public4-Project1Phase2" />
+        <item itemvalue="Python.Public3-Project1Phase2" />
+        <item itemvalue="Python.Public2-Project1Phase2" />
+        <item itemvalue="Python.Public1-Project1Phase2 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68dc284b-96df-4f33-87bd-d763553ff788" name="Changes" comment="" />
+      <created>1644244026683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644244026683</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

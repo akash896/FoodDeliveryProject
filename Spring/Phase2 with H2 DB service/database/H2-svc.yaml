@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: akash-h2
+spec:
+  selector:
+    app: akash-h2
+  ports:
+  - port: 8083
+    targetPort: 8083
+  type: LoadBalancer
